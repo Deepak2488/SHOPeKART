@@ -4,7 +4,7 @@ This project code is hosted on Netlify , you can click on below link:
 
 
 
-Runs the app in the development mode.\
+Runs the app in dektop browser.\
 Open [https://shop-e-kart.netlify.app/](https://shop-e-kart.netlify.app/) to view it in your browser.
 
 
