@@ -1,6 +1,6 @@
 
 
-this project code is hosted on Netlify , you can click on below link:
+This project code is hosted on Netlify , you can click on below link:
 
 
 
