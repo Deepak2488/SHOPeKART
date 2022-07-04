@@ -1,4 +1,4 @@
-
+To view on desktop click on Netlify link.
 
 This project code is hosted on Netlify , you can click on below link:
 
