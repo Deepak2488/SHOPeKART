@@ -9,7 +9,7 @@ Open [https://shop-e-kart.netlify.app/](https://shop-e-kart.netlify.app/) to vie
 
 
 
-## Features
+Features
 
 Home page with details options, products page, login, cart, wishlist.
 Products page with product deatails and options to buy, add to cart and add to wishlist.
